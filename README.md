@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mattia</h1>
-<h3 align="center">A passionate physics student from Italy 🇮🇹</h3>
+<h1>Hi 👋, I'm Mattia</h1>
+<h3>A passionate physics student from Italy 🇮🇹</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Mattia04&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
@@ -9,24 +9,21 @@
 
 📫 How to reach me: **mattia.ballico@gmail.com**
 
-<!--
-📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
--->
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3> Connect with me 🤝 </h3>
 
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Mattia04">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+<div style="margin-left: 10px;">
+	<a style="margin-left: 10px;" target="_blank" href="https://github.com/Mattia04">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
+	</a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/Mattia_BLL">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://x.com/Mattia54783216">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png"
-      </div>
+		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+	</a>
+	<a style="margin-left: 10px;" target="_blank" href="https://x.com/Mattia54783216">
+		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
+	</a>
+</div>
 
-</p>
+---
 
 <h3>Stats</h3>
   
@@ -35,6 +32,8 @@
 ![Mattia04's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mattia04&theme=monokai&hide_border=true)
 
 ![Mattia04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattia04&theme=monokai&show_icons=true&hide_border=true&hide_progress=true)
+
+---
 
 <h3>Tech stack</h3>
 <h4>Programming Languages</h4>
