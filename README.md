@@ -23,6 +23,7 @@
 	</a>
 </div>
 
+<!--
 ---
 
 <h3>Stats</h3>
@@ -33,7 +34,7 @@
 
 ![Mattia04's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattia04&theme=monokai&show_icons=true&hide_border=true&hide_progress=true)
 
----
+-->
 
 <h3>Tech stack</h3>
 <h4>Programming Languages</h4>
