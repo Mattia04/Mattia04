@@ -5,7 +5,7 @@
 
 🔭 I’m currently doing a bachelor in physics at UNIMI.
 
-🌱 I’m currently working on [ODE integrators](https://github.com/Mattia04/ODESolvers) and [computing using GPUs](https://github.com/Mattia04/ALotOfPendulums2/tree/main)
+🌱 I’m currently working on Neural Networks.
 
 📫 How to reach me: **mattia.ballico@gmail.com**
 
