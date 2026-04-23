@@ -3,25 +3,9 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Mattia04&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
-🔭 I’m currently doing a bachelor in physics at UNIMI.
-
-🌱 I’m currently working on Neural Networks.
+🔭 I’m currently doing a bachelor's in physics at UNIMI.
 
 📫 How to reach me: **mattia.ballico@gmail.com**
-
-<h3> Connect with me 🤝 </h3>
-
-<div style="margin-left: 10px;">
-	<a style="margin-left: 10px;" target="_blank" href="https://github.com/Mattia04">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
-	</a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/Mattia_BLL">
-		<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
-	</a>
-	<a style="margin-left: 10px;" target="_blank" href="https://x.com/Mattia54783216">
-		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png">
-	</a>
-</div>
 
 <!--
 ---
@@ -53,11 +37,11 @@
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-  <!-- ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) --> 
   <!-- ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) --> 
-  <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) --> 
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   <!-- ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) --> 
-  <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) --> 
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   <!-- ![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white) --> 
 <h4>IDEs</h4> 
 
